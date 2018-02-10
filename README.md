@@ -1,6 +1,6 @@
 ![](images/cover.png)
 
-[使用 GitBook 在线阅读本课程](http://www.longestory.com/easy-javascript/)
+[使用 GitBook 在线阅读本课程](http://www.longestory.com/easy-javascript-oop/)
 
 ## 前言
 
